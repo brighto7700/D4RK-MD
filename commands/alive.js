@@ -20,7 +20,7 @@ async function aliveCommand(sock, chatId) {
     try {
         const message = `
 ╭━━━━━━━━━━━━━━━━━━━╮
-┃        𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀
+┃        ʟᴀᴅʏ ʙᴇʟʟᴀ ᴠ3
 ╰━━━━━━━━━━━━━━━━━━━╯
 ┌───────────────────┐
 │  🔹 *Status*: Online
@@ -36,7 +36,7 @@ async function aliveCommand(sock, chatId) {
 ├───────────────────
 `.trim();
 
-        const imageUrl = 'https://files.catbox.moe/8tuoqz.jpg';
+        const imageUrl = 'https://files.catbox.moe/j9eknp.jpg';
         const imagePath = await downloadImage(imageUrl);
         
         const messageOptions = {
@@ -45,7 +45,7 @@ async function aliveCommand(sock, chatId) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363399707841760@newsletter',
-                    newsletterName: '𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀',
+                    newsletterName: 'ʟᴀᴅʏ ʙᴇʟʟᴀ ᴠ3',
                     serverMessageId: -1
                 }
             }

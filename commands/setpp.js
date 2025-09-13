@@ -17,7 +17,7 @@ async function setProfilePicture(sock, chatId, msg) {
         const quotedMessage = msg.message?.extendedTextMessage?.contextInfo?.quotedMessage;
         if (!quotedMessage) {
             await sock.sendMessage(chatId, { 
-                text: '_Please reply to an image with the .setpp command!_' 
+                text: '⚠️ Please reply to an image with the .setpp command!' 
             });
             return;
         }
@@ -57,7 +57,7 @@ async function setProfilePicture(sock, chatId, msg) {
         fs.unlinkSync(imagePath);
 
         await sock.sendMessage(chatId, { 
-            text: 'profile picture updated Successfully✔️' 
+            text: '✅ Successfully updated bot profile picture!' 
         });
 
     } catch (error) {

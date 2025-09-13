@@ -75,7 +75,7 @@ function saveAntideleteConfig(config) {
 // Command Handler
 async function handleAntideleteCommand(sock, chatId, message, match) {
     if (!message.key.fromMe) {
-        return sock.sendMessage(chatId, { text: '*Only the bot owner can use this command.*' });
+        return sock.sendMessage(chatId, { text: '*Only the bot owner can use this command.*' }, { quoted: message });
     }
 
     const config = loadAntideleteConfig();
@@ -83,7 +83,7 @@ async function handleAntideleteCommand(sock, chatId, message, match) {
     if (!match) {
         return sock.sendMessage(chatId, {
             text: `*ANTIDELETE SETUP*\n\nCurrent Status: ${config.enabled ? '✅ Enabled' : '❌ Disabled'}\n\n*.antidelete on* - Enable\n*.antidelete off* - Disable`
-        });
+        }, {quoted: message});
     }
 
     if (match === 'on') {
@@ -91,11 +91,11 @@ async function handleAntideleteCommand(sock, chatId, message, match) {
     } else if (match === 'off') {
         config.enabled = false;
     } else {
-        return sock.sendMessage(chatId, { text: '*Invalid command. Use .antidelete to see usage.*' });
+        return sock.sendMessage(chatId, { text: '*Invalid command. Use .antidelete to see usage.*' }, {quoted:message});
     }
 
     saveAntideleteConfig(config);
-    return sock.sendMessage(chatId, { text: `*Antidelete ${match === 'on' ? 'enabled' : 'disabled'}*` });
+    return sock.sendMessage(chatId, { text: `*Antidelete ${match === 'on' ? 'enabled' : 'disabled'}*` }, {quoted:message});
 }
 
 // Store incoming messages
@@ -176,7 +176,7 @@ async function handleMessageRevocation(sock, revocationMessage) {
             day: '2-digit', month: '2-digit', year: 'numeric'
         });
 
-        let text = `*🖲️ ANTIDELETE RETRIEVED 🖲️*\n\n` +
+        let text = `*🔰 ANTIDELETE REPORT 🔰*\n\n` +
             `*🗑️ Deleted By:* @${deletedBy.split('@')[0]}\n` +
             `*👤 Sender:* @${senderName}\n` +
             `*📱 Number:* ${sender}\n` +
@@ -185,7 +185,7 @@ async function handleMessageRevocation(sock, revocationMessage) {
         if (groupName) text += `*👥 Group:* ${groupName}\n`;
 
         if (original.content) {
-            text += `\n*📍 Deleted Message:*\n${original.content}`;
+            text += `\n*💬 Deleted Message:*\n${original.content}`;
         }
 
         await sock.sendMessage(ownerNumber, {

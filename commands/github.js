@@ -6,11 +6,10 @@ https://github.com/SNOWBIRD0074/BEN-10-MD
 
 *Dont forget to star✨and fork our repo
 
-*GET YOURS NOW TYPE /pair 263..(your # no +'):*
+*OUR OFFICIAL CHANNEL
 
-//telegram.me/Lady_bella1_Bot
-
-_Enjoy ⬆️⬆️!_`;
+https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C
+`;
 
     try {
         await sock.sendMessage(chatId, {

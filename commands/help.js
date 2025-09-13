@@ -1,1 +1,352 @@
-function _0x33ed(){const _0x1c0cdb=['readFileSync','_ʟᴀᴅʏ\x20ʙᴇʟʟᴀ\x20ʟᴏᴀᴅɪɴɢ\x20please\x20wait..._','toLocaleString','120363399707841760@newsletter','213660NHfdtq','2991198BIgYxe','trim','\x0a>\x20✪\x20Uptime:\x20','../assets/bot_image.jpg','110rvpRxM','exports','\x0a>\x20❐═══════════════════❐\x0a‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\x0a‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\x0a‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\x0a\x20\x20\x20ᴏᴡɴᴇʀ\x20ᴄᴍᴅ\x0a\x0a>\x20★.ban\x0a>\x20★.unban\x0a>\x20★.promote\x0a>\x20★.demote\x0a>\x20★.mute\x20\x0a>\x20★.unmute\x0a>\x20★.delete\x0a>\x20★.kick\x0a>\x20★.warnings\x0a>\x20★.warn\x20>\x0a>\x20★.antilink\x0a>\x20★.antibadword\x0a>\x20★.clear\x0a>\x20★.tag\x0a>\x20★.tagall\x0a>\x20★.chatbot\x0a>\x20★.resetlink\x0a>\x20★.welcome\x0a>\x20★.goodbye\x0a\x0a\x20\x20ɢᴇɴᴇʀᴀʟ\x20ᴄᴍᴅs\x0a\x20\x20\x0a>\x20★\x20.menu\x0a>\x20★\x20.ping\x0a>\x20★\x20.runtime\x0a>\x20★\x20.tts\x0a>\x20★\x20.owner\x0a>\x20★\x20.joke\x0a>\x20★\x20.quote\x0a>\x20★\x20.fact\x0a>\x20★\x20.weather\x20\x0a>\x20★\x20.news\x0a>\x20★\x20.attp\x0a>\x20★\x20.lyrics\x0a>\x20★\x20.8ball\x20\x0a>\x20★\x20.groupinfo\x0a>\x20★\x20.admins\x20\x0a>\x20★\x20.vv\x0a>\x20★\x20.trt\x0a>\x20★\x20.ss\x20\x0a>\x20★\x20.jid\x0a\x0a\x20sᴇᴛᴛɪɴs\x20ᴄᴍᴅs\x0a\x0a>\x20★\x20.public\x0a>\x20★\x20.private\x0a>\x20★\x20.autostatus\x0a>\x20★\x20.autoread\x0a>\x20★\x20.clearsession\x0a>\x20★\x20.antidelete\x0a>\x20★\x20.cleartmp\x0a>\x20★\x20.autoreact\x0a>\x20★\x20.getpp\x0a>\x20★\x20.setpp\x0a>\x20★\x20.autobio\x0a>\x20★\x20.autotyping\x20\x0a>\x20★\x20.autorecording\x20\x0a\x0a\x20sᴛɪᴄᴋᴇʀ\x20ᴄᴍᴅs\x0a\x0a>\x20★\x20.blur\x0a>\x20★\x20.simage\x20\x0a>\x20★\x20.sticker\x0a>\x20★\x20.tgsticker\x0a>\x20★\x20.meme\x0a>\x20★\x20.take\x20\x0a>\x20★\x20.emojimix\x0a\x0a\x20\x20ɢᴀᴍᴇ\x20ᴄᴍᴅs\x0a\x0a>\x20★\x20.tictactoe\x20\x0a>\x20★\x20.hangman\x0a>\x20★\x20.guess\x20\x0a>\x20★\x20.trivia\x0a>\x20★\x20.answer\x0a>\x20★\x20.truth\x0a>\x20★\x20.dare\x0a\x0a>\x20sᴇᴀʀᴄʜ\x20ᴀɪ\x0a\x0a>\x20★\x20.gpt\x0a>\x20★\x20.gptgo\x0a>\x20★\x20.gemini\x0a>\x20★\x20.imagine\x0a>\x20★\x20.flux\x0a\x0a\x0a\x20\x20ᴏᴛʜᴇʀ\x20ᴄᴍᴅs\x0a\x0a>\x20★\x20.compliment\x0a>\x20★\x20.insult\x0a>\x20★\x20.flirt\x20\x0a>\x20★\x20.shayari\x0a>\x20★\x20.goodnight\x0a>\x20★\x20.roseday\x0a>\x20★\x20.character\x0a>\x20★\x20.wasted\x0a>\x20★\x20.ship\x20\x0a>\x20★\x20.simp\x0a>\x20★\x20.stupid\x0a\x0a\x20\x20ᴍᴀᴋᴇʀ\x20ᴍᴇɴᴜ\x0a\x0a>\x20★\x20.metallic\x20\x0a>\x20★\x20\x20.ice\x20\x0a>\x20★\x20\x20.snow\x0a>\x20★\x20.impressive\x0a>\x20★\x20.matrix\x0a>\x20★\x20.light\x0a>\x20★\x20.neon\x0a>\x20★\x20.devil\x0a>\x20★\x20.purple\x0a>\x20★\x20.thunder\x0a>\x20★\x20.leaves\x0a>\x20★\x20.1917\x20\x0a>\x20★\x20.arena\x0a>\x20★\x20.hacker\x0a>\x20★\x20.sand\x0a>\x20★\x20.blackpink\x0a>\x20★\x20.glitch\x0a>\x20★\x20.fire\x20\x0a\x20\x0a\x20\x20\x20sᴇᴀʀᴄʜ\x20ᴄᴍᴅs\x0a\x0a>\x20★\x20.play\x0a>\x20★\x20.song\x20\x0a>\x20★\x20.instagram\x0a>\x20★\x20.facebook\x0a>\x20★\x20.tiktok\x20\x0a>\x20★\x20.video\x0a>\x20★\x20.ytmp4\x0a\x0a\x20\x20ɢɪᴛʜᴜʙ\x20ᴄᴍᴅs\x0a\x0a>\x20★\x20.git\x0a>\x20★\x20.github\x0a>\x20★\x20.sc\x0a>\x20★\x20.script\x0a>\x20★\x20.repo\x0a>\x20★\x20.gitclone\x0a\x0a\x20ᴘᴏᴡᴇʀᴇᴅ\x20ʙʏ\x20sɴᴏᴡʙɪʀᴅ','round','floor','sendMessage','74662zPuwST','now','10351prNwVf','20Rsdpbm','9656970zHzDpB','6726713WLqjcI','8MLixFu','existsSync','Bot\x20image\x20not\x20found\x20at:','24924EOUKVS','botOwner','../settings','\x0a>\x20✪\x20Speed:\x20','uptime','\x0a>\x20❐══════════════════❐\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Lᴀᴅʏ\x20ʙᴇʟʟᴀ\x20ᴠ2\x20\x0a>\x20✪═══════════════════❐\x0a>\x20✪═══════════════════❐\x0a>\x20✪\x20Owner:\x20','error','16EYOXhe','26982TISrsL'];_0x33ed=function(){return _0x1c0cdb;};return _0x33ed();}const _0x2305dd=_0x106e;(function(_0x5debff,_0x535701){const _0x34fe64=_0x106e,_0x20b7de=_0x5debff();while(!![]){try{const _0x17ea80=-parseInt(_0x34fe64(0x1f2))/0x1*(parseInt(_0x34fe64(0x203))/0x2)+-parseInt(_0x34fe64(0x1f9))/0x3+-parseInt(_0x34fe64(0x1f8))/0x4*(-parseInt(_0x34fe64(0x1fd))/0x5)+-parseInt(_0x34fe64(0x207))/0x6+parseInt(_0x34fe64(0x208))/0x7*(parseInt(_0x34fe64(0x209))/0x8)+-parseInt(_0x34fe64(0x1f3))/0x9*(parseInt(_0x34fe64(0x206))/0xa)+-parseInt(_0x34fe64(0x205))/0xb*(-parseInt(_0x34fe64(0x20c))/0xc);if(_0x17ea80===_0x535701)break;else _0x20b7de['push'](_0x20b7de['shift']());}catch(_0x5b5358){_0x20b7de['push'](_0x20b7de['shift']());}}}(_0x33ed,0xd7035));const settings=require(_0x2305dd(0x1ed)),fs=require('fs'),path=require('path'),os=require('os');function formatTime(_0xeb93a2){const _0x527ba2=_0x2305dd,_0x381879=Math[_0x527ba2(0x201)](_0xeb93a2/(0x18*0x3c*0x3c));_0xeb93a2=_0xeb93a2%(0x18*0x3c*0x3c);const _0x4ee32b=Math[_0x527ba2(0x201)](_0xeb93a2/(0x3c*0x3c));_0xeb93a2=_0xeb93a2%(0x3c*0x3c);const _0x41f86e=Math[_0x527ba2(0x201)](_0xeb93a2/0x3c);_0xeb93a2=Math[_0x527ba2(0x201)](_0xeb93a2%0x3c);let _0x467e3a='';if(_0x381879>0x0)_0x467e3a+=_0x381879+'d\x20';if(_0x4ee32b>0x0)_0x467e3a+=_0x4ee32b+'h\x20';if(_0x41f86e>0x0)_0x467e3a+=_0x41f86e+'m\x20';if(_0xeb93a2>0x0||_0x467e3a==='')_0x467e3a+=_0xeb93a2+'s';return _0x467e3a[_0x527ba2(0x1fa)]();}async function helpCommand(_0x914556,_0x31ea1b,_0x35937a){const _0x2d16dd=_0x2305dd,_0x183efb=Date['now']();await _0x914556['sendMessage'](_0x31ea1b,{'text':_0x2d16dd(0x1f5)},{'quoted':_0x35937a});const _0x1fed17=Date[_0x2d16dd(0x204)](),_0xf0a2a1=Math[_0x2d16dd(0x200)]((_0x1fed17-_0x183efb)/0x2),_0x499232=process[_0x2d16dd(0x1ef)](),_0x155ea6=formatTime(_0x499232),_0xb7c398=_0x2d16dd(0x1f0)+settings[_0x2d16dd(0x1ec)]+_0x2d16dd(0x1fb)+_0x155ea6+'\x0a>\x20✪\x20Time:\x20'+new Date()[_0x2d16dd(0x1f6)]()+_0x2d16dd(0x1ee)+_0xf0a2a1+'\x20ms\x0a>\x20✪\x20Version:\x20'+settings['version']+_0x2d16dd(0x1ff);try{const _0x554e84=path['join'](__dirname,_0x2d16dd(0x1fc));if(fs[_0x2d16dd(0x20a)](_0x554e84)){const _0x312c91=fs[_0x2d16dd(0x1f4)](_0x554e84);await _0x914556[_0x2d16dd(0x202)](_0x31ea1b,{'image':_0x312c91,'caption':_0xb7c398,'contextInfo':{'forwardingScore':0x1,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x2d16dd(0x1f7),'newsletterName':'','serverMessageId':-0x1}}},{'quoted':_0x35937a});}else console[_0x2d16dd(0x1f1)](_0x2d16dd(0x20b),_0x554e84),await _0x914556[_0x2d16dd(0x202)](_0x31ea1b,{'text':_0xb7c398,'contextInfo':{'forwardingScore':0x1,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x2d16dd(0x1f7),'newsletterName':'ʟᴀᴅʏ\x20ʙᴇʟʟᴀ','serverMessageId':-0x1}}});}catch(_0x57bbef){console['error']('Error\x20in\x20help\x20command:',_0x57bbef),await _0x914556[_0x2d16dd(0x202)](_0x31ea1b,{'text':_0xb7c398});}}function _0x106e(_0x27149c,_0x3c233a){const _0x33edca=_0x33ed();return _0x106e=function(_0x106e61,_0x5b3fb2){_0x106e61=_0x106e61-0x1ec;let _0x434cb0=_0x33edca[_0x106e61];return _0x434cb0;},_0x106e(_0x27149c,_0x3c233a);}module[_0x2305dd(0x1fe)]=helpCommand;
+const settings = require('../settings');
+const fs = require('fs');
+const path = require('path');
+const os = require('os');
+
+// Format uptime properly
+function formatUptime(seconds) {
+    const days = Math.floor(seconds / (24 * 60 * 60));
+    seconds = seconds % (24 * 60 * 60);
+    const hours = Math.floor(seconds / (60 * 60));
+    seconds = seconds % (60 * 60);
+    const minutes = Math.floor(seconds / 60);
+    seconds = Math.floor(seconds % 60);
+
+    let time = '';
+    if (days > 0) time += `${days}d `;
+    if (hours > 0) time += `${hours}h `;
+    if (minutes > 0) time += `${minutes}m `;
+    if (seconds > 0 || time === '') time += `${seconds}s`;
+
+    return time.trim();
+}
+
+// Format RAM usage
+function formatRam(total, free) {
+    const used = (total - free) / (1024 * 1024 * 1024);
+    const totalGb = total / (1024 * 1024 * 1024);
+    const percent = ((used / totalGb) * 100).toFixed(1);
+    return `${used.toFixed(1)}GB / ${totalGb.toFixed(1)}GB (${percent}%)`;
+}
+
+// Count total commands
+function countCommands() {
+    return 158; // Replace with actual command count
+}
+
+// Get mood emoji based on time
+function getMoodEmoji() {
+    const hour = getLagosTime().getHours();
+    if (hour < 12) return '🌅';
+    if (hour < 18) return '☀️';
+    return '🌙';
+}
+
+// Get countdown to next day
+function getCountdown() {
+    const now = getLagosTime();
+    const tomorrow = new Date(now);
+    tomorrow.setDate(tomorrow.getDate() + 1);
+    tomorrow.setHours(0, 0, 0, 0);
+    
+    const diff = tomorrow - now;
+    const hours = Math.floor(diff / (1000 * 60 * 60));
+    const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+    
+    return `(${hours}h ${minutes}m)`;
+}
+
+// Get current time in Africa/Lagos timezone
+function getLagosTime() {
+    try {
+        // Try using Intl API for proper timezone handling
+        const options = {
+            timeZone: 'Africa/Lagos',
+            hour12: false,
+            hour: 'numeric',
+            minute: 'numeric'
+        };
+        
+        const formatter = new Intl.DateTimeFormat('en-GB', options);
+        const parts = formatter.formatToParts(new Date());
+        
+        const hour = parts.find(part => part.type === 'hour').value;
+        const minute = parts.find(part => part.type === 'minute').value;
+        
+        // Create a new Date object with the correct time
+        const now = new Date();
+        const lagosDate = new Date(now.toLocaleString('en-US', {timeZone: 'Africa/Lagos'}));
+        
+        return lagosDate;
+    } catch (error) {
+        // Fallback for environments without Intl API support
+        const now = new Date();
+        const utc = now.getTime() + (now.getTimezoneOffset() * 60000);
+        // Africa/Lagos is UTC+1
+        return new Date(utc + (3600000 * 1));
+    }
+}
+
+// Format time specifically for Africa/Lagos
+function formatLagosTime() {
+    const lagosTime = getLagosTime();
+    const hours = lagosTime.getHours().toString().padStart(2, '0');
+    const minutes = lagosTime.getMinutes().toString().padStart(2, '0');
+    return `${hours}:${minutes}`;
+}
+
+async function helpCommand(sock, chatId, message) {
+    const helpMessage = `
+┌ ❏ * ⌜ʟᴀᴅʏʙᴇʟʟᴀ ᴠ3  ⌟* ❏ 
+│
+├◆ ᴏᴡɴᴇʀ: ${settings.botOwner || 'sɴᴏᴡʙɪʀᴅ'}
+├◆ ᴘʀᴇғɪx: .
+├◆ ᴜsᴇʀ: ${message.pushName}
+├◆ ᴘʟᴀɴ: Premium ${'✓'}
+├◆ ᴠᴇʀsɪᴏɴ: ${settings.version || '3.0.0'}
+├◆ ᴛɪᴍᴇ: ${formatLagosTime()} (Africa/Lagos)
+├◆ ᴜᴘᴛɪᴍᴇ: ${formatUptime(process.uptime())}
+├◆ ᴄᴏᴍᴍᴀɴᴅs: ${countCommands()}
+├◆ ᴛᴏᴅᴀʏ: ${new Date().toLocaleDateString('en-US', {weekday: 'long'})}
+├◆ ᴅᴀᴛᴇ: ${new Date().toLocaleDateString('en-GB')}
+├◆ ᴘʟᴀᴛғᴏʀᴍ: Chrome Ubuntu
+├◆ ʀᴜɴᴛɪᴍᴇ: Node.js v${process.version.replace('v', '')}
+├◆ ᴄᴘᴜ: ${os.cpus()[0].model.split(' ')[0]} ${os.cpus()[0].speed}MHz
+├◆ ʀᴀᴍ: ${formatRam(os.totalmem(), os.freemem())}
+├◆ ᴍᴏᴅᴇ: ${settings.commandMode || 'Public'}
+├◆ ᴍᴏᴏᴅ: ${getMoodEmoji()} ${getCountdown()}
+├◆
+┗━━━━━━━━━━━━━━━━━━━━
+‎
+ʟᴀᴅʏʙᴇʟʟᴀ ᴠ3 ʙᴏᴛ ᴄᴍᴅs
+
+╭─❏  ᴏᴡɴᴇʀ ᴍᴇɴᴜ  ❏─╮
+✞︎ .ᴍᴏᴅᴇ <ᴘᴜʙʟɪᴄ/ᴘʀɪᴠᴀᴛᴇ>
+✞︎ .ᴄʟᴇᴀʀsᴇssɪᴏɴ
+✞︎ .ᴀɴᴛɪᴅᴇʟᴇᴛᴇ
+✞︎ .ᴄʟᴇᴀʀᴛᴍᴘ
+✞︎ .ᴜᴘᴅᴀᴛᴇ
+✞︎ .sᴇᴛᴘᴘ <ʀᴇᴘʟʏ ɪᴍᴀɢᴇ>
+✞︎ .ᴀᴜᴛᴏʀᴇᴀᴄᴛ <ᴏɴ/ᴏꜰꜰ>
+✞︎ .ᴀᴜᴛᴏsᴛᴀᴛᴜs <ᴏɴ/ᴏꜰꜰ>
+✞︎ .ᴀᴜᴛᴏsᴛᴀᴛᴜs ʀᴇᴀᴄᴛ <ᴏɴ/ᴏꜰꜰ>
+✞︎ .ᴀᴜᴛᴏᴛʏᴘɪɴɢ <ᴏɴ/ᴏꜰꜰ>
+✞︎ .ᴀᴜᴛᴏʀᴇᴀᴅ <ᴏɴ/ᴏꜰꜰ>
+✞︎ .ᴀɴᴛɪᴄᴀʟʟ <ᴏɴ/ᴏꜰꜰ>
+╰──────────────────╯
+
+╭─❏  ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs  ❏─╮
+✞︎ .ʙᴀɴ @ᴜsᴇʀ
+✞︎ .ᴘʀᴏᴍᴏᴛᴇ @ᴜsᴇʀ
+✞︎ .ᴅᴇᴍᴏᴛᴇ @ᴜsᴇʀ
+✞︎ .ᴍᴜᴛᴇ <ᴍɪɴᴜᴛᴇs>
+✞︎ .ᴜɴᴍᴜᴛᴇ
+✞︎ .ᴅᴇʟᴇᴛᴇ / .ᴅᴇʟ
+✞︎ .ᴋɪᴄᴋ @ᴜsᴇʀ
+✞︎ .ᴡᴀʀɴɪɴɢs @ᴜsᴇʀ
+✞︎ .ᴡᴀʀɴ @ᴜsᴇʀ
+✞︎ .ᴀɴᴛɪʟɪɴᴋ
+✞︎ .ᴀɴᴛɪʙᴀᴅᴡᴏʀᴅ
+✞︎ .ᴄʟᴇᴀʀ
+✞︎ .ᴛᴀɢ <ᴍᴇssᴀɢᴇ>
+✞︎ .ᴛᴀɢᴀʟʟ
+✞︎ .ᴄʜᴀᴛʙᴏᴛ
+✞︎ .ʀᴇsᴇᴛʟɪɴᴋ
+✞︎ .ᴀɴᴛɪᴛᴀɢ <ᴏɴ/ᴏꜰꜰ>
+✞︎ .ᴡᴇʟᴄᴏᴍᴇ <ᴏɴ/ᴏꜰꜰ>
+✞︎ .ɢᴏᴏᴅʙʏᴇ <ᴏɴ/ᴏꜰꜰ>
+╰──────────────────╯
+
+╭─❏  ɢᴇɴᴇʀᴀʟ ᴍᴇɴᴜ  ❏─╮
+✞︎ .sɴᴏᴡʙɪʀᴅ
+✞︎ .ᴍᴇɴᴜ
+✞︎ .ᴘɪɴɢ
+✞︎ .ᴀʟɪᴠᴇ
+✞︎ .ᴛᴛs <ᴛᴇxᴛ>
+✞︎ .ᴏᴡɴᴇʀ
+✞︎ .ᴊᴏᴋᴇ
+✞︎ .ǫᴜᴏᴛᴇ
+✞︎ .ꜰᴀᴄᴛ
+✞︎ .ᴡᴇᴀᴛʜᴇʀ <ᴄɪᴛʏ>
+✞︎ .ɴᴇᴡs
+✞︎ .ᴀᴛᴛᴘ <ᴛᴇxᴛ>
+✞︎ .ʟʏʀɪᴄs <sᴏɴɢ_ᴛɪᴛʟᴇ>
+✞︎ .8ʙᴀʟʟ <ǫᴜᴇsᴛɪᴏɴ>
+✞︎ .ɢʀᴏᴜᴘɪɴꜰᴏ
+✞︎ .sᴛᴀꜰꜰ / .ᴀᴅᴍɪɴs
+✞︎ .ᴠᴠ
+✞︎ .ᴛʀᴛ <ᴛᴇxᴛ> <ʟᴀɴɢ>
+✞︎ .sꜱ <ʟɪɴᴋ>
+✞︎ .ᴊɪᴅ
+╰──────────────────╯
+
+╭─❏  ɪᴍᴀɢᴇ / sᴛɪᴄᴋᴇʀ  ❏─╮
+✞︎ .ʙʟᴜʀ <ɪᴍᴀɢᴇ>
+✞︎ .sɪᴍᴀɢᴇ <ʀᴇᴘʟʏ ᴛᴏ sᴛɪᴄᴋᴇʀ>
+✞︎ .sᴛɪᴄᴋᴇʀ <ʀᴇᴘʟʏ ᴛᴏ ɪᴍᴀɢᴇ>
+✞︎ .ʀᴇᴍᴏᴠᴇʙɢ
+✞︎ .ʀᴇᴍɪɴɪ
+✞︎ .ᴄʀᴏᴘ <ʀᴇᴘʟʏ ᴛᴏ ɪᴍᴀɢᴇ>
+✞︎ .ᴛɢsᴛɪᴄᴋᴇʀ <ʟɪɴᴋ>
+✞︎ .ᴍᴇᴍᴇ
+✞︎ .ᴛᴀᴋᴇ <ᴘᴀᴄᴋɴᴀᴍᴇ>
+✞︎ .ᴇᴍᴏᴊɪᴍɪx <ᴇᴍᴊ1>+<ᴇᴍᴊ2>
+✞︎ .ɪɢs <ɪɴsᴛᴀ ʟɪɴᴋ>
+✞︎ .ɪɢsᴄ <ɪɴsᴛᴀ ʟɪɴᴋ>
+╰──────────────────╯
+
+╭─❏  ᴘɪᴇs ᴍᴇɴᴜ  ❏─╮
+✞︎ .ᴘɪᴇs <ᴄᴏᴜɴᴛʀʏ>
+✞︎ .ᴄʜɪɴᴀ
+✞︎ .ɪɴᴅᴏɴᴇsɪᴀ
+✞︎ .ᴊᴀᴘᴀɴ
+✞︎ .ᴋᴏʀᴇᴀ
+✞︎ .ʜɪᴊᴀʙ
+╰──────────────────╯
+
+╭─❏  ɢᴀᴍᴇ ᴍᴇɴᴜ  ❏─╮
+✞︎ .ᴛɪᴄᴛᴀᴄᴛᴏᴇ @ᴜsᴇʀ
+✞︎ .ʜᴀɴɢᴍᴀɴ
+✞︎ .ɢᴜᴇss <ʟᴇᴛᴛᴇʀ>
+✞︎ .ᴛʀɪᴠɪᴀ
+✞︎ .ᴀɴsᴡᴇʀ <ᴀɴsᴡᴇʀ>
+✞︎ .ᴛʀᴜᴛʜ
+✞︎ .ᴅᴀʀᴇ
+╰──────────────────╯
+
+╭─❏  ᴀɪ / sᴇᴀʀᴄʜ  ❏─╮
+✞︎ .ɢᴘᴛ <ǫᴜᴇsᴛɪᴏɴ>
+✞︎ .ɢᴇᴍɪɴɪ <ǫᴜᴇsᴛɪᴏɴ>
+✞︎ .ɪᴍᴀɢɪɴᴇ <ᴘʀᴏᴍᴘᴛ>
+✞︎ .ꜰʟᴜx <ᴘʀᴏᴍᴘᴛ>
+╰──────────────────╯
+
+╭─❏  ꜰᴜɴ ᴍᴇɴᴜ  ❏─╮
+✞︎ .ᴄᴏᴍᴘʟɪᴍᴇɴᴛ @ᴜsᴇʀ
+✞︎ .ɪɴsᴜʟᴛ @ᴜsᴇʀ
+✞︎ .ꜰʟɪʀᴛ
+✞︎ .sʜᴀʏᴀʀɪ
+✞︎ .ɢᴏᴏᴅɴɪɢʜᴛ
+✞︎ .ʀᴏsᴇᴅᴀʏ
+✞︎ .ᴄʜᴀʀᴀᴄᴛᴇʀ @ᴜsᴇʀ
+✞︎ .ᴡᴀsᴛᴇᴅ @ᴜsᴇʀ
+✞︎ .sʜɪᴘ @ᴜsᴇʀ
+✞︎ .sɪᴍᴘ @ᴜsᴇʀ
+✞︎ .sᴛᴜᴘɪᴅ @ᴜsᴇʀ [ᴛᴇxᴛ]
+╰──────────────────╯
+
+╭─❏  ᴛᴇxᴛ ᴇꜰꜰᴇᴄᴛs  ❏─╮
+✞︎ .ᴍᴇᴛᴀʟʟɪᴄ <ᴛᴇxᴛ>
+✞︎ .ɪᴄᴇ <ᴛᴇxᴛ>
+✞︎ .sɴᴏᴡ <ᴛᴇxᴛ>
+✞︎ .ɪᴍᴘʀᴇssɪᴠᴇ <ᴛᴇxᴛ>
+✞︎ .ᴍᴀᴛʀɪx <ᴛᴇxᴛ>
+✞︎ .ʟɪɢʜᴛ <ᴛᴇxᴛ>
+✞︎ .ɴᴇᴏɴ <ᴛᴇxᴛ>
+✞︎ .ᴅᴇᴠɪʟ <ᴛᴇxᴛ>
+✞︎ .ᴘᴜʀᴘʟᴇ <ᴛᴇxᴛ>
+✞︎ .ᴛʜᴜɴᴅᴇʀ <ᴛᴇxᴛ>
+✞︎ .ʟᴇᴀᴠᴇs <ᴛᴇxᴛ>
+✞︎ .1917 <ᴛᴇxᴛ>
+✞︎ .ᴀʀᴇɴᴀ <ᴛᴇxᴛ>
+✞︎ .ʜᴀᴄᴋᴇʀ <ᴛᴇxᴛ>
+✞︎ .sᴀɴᴅ <ᴛᴇxᴛ>
+✞︎ .ʙʟᴀᴄᴋᴘɪɴᴋ <ᴛᴇxᴛ>
+✞︎ .ɢʟɪᴛᴄʜ <ᴛᴇxᴛ>
+✞︎ .ꜰɪʀᴇ <ᴛᴇxᴛ>
+╰──────────────────╯
+
+╭─❏  ᴅᴏᴡɴʟᴏᴀᴅ  ❏─╮
+✞︎ .ᴘʟᴀʏ <sᴏɴɢ_ɴᴀᴍᴇ>
+✞︎ .sᴏɴɢ <sᴏɴɢ_ɴᴀᴍᴇ>
+✞︎ .ɪɴsᴛᴀɢʀᴀᴍ <ʟɪɴᴋ>
+✞︎ .ꜰᴀᴄᴇʙᴏᴏᴋ <ʟɪɴᴋ>
+✞︎ .ᴛɪᴋᴛᴏᴋ <ʟɪɴᴋ>
+✞︎ .ᴠɪᴅᴇᴏ <sᴏɴɢ_ɴᴀᴍᴇ>
+✞︎ .ʏᴛᴍᴘ4 <ʟɪɴᴋ>
+╰──────────────────╯
+
+╭─❏  ɢɪᴛʜᴜʙ  ❏─╮
+✞︎ .ɢɪᴛ
+✞︎ .ɢɪᴛʜᴜʙ
+✞︎ .sᴄ
+✞︎ .sᴄʀɪᴘᴛ
+✞︎ .ʀᴇᴘᴏ
+╰──────────────────╯
+
+╭─❏  ᴍɪꜱᴄ ᴍᴇɴᴜ  ❏─╮
+✞︎ .ʜᴇᴀʀᴛ
+✞︎ .ʜᴏʀɴʏ
+✞︎ .ᴄɪʀᴄʟᴇ
+✞︎ .ʟɢʙᴛ
+✞︎ .ʟᴏʟɪᴄᴇ
+✞︎ .ɪᴛs-sᴏ-sᴛᴜᴘɪᴅ
+✞︎ .ɴᴀᴍᴇᴄᴀʀᴅ
+✞︎ .ᴏᴏɢᴡᴀʏ
+✞︎ .ᴛᴡᴇᴇᴛ
+✞︎ .ʏᴛᴄᴏᴍᴍᴇɴᴛ
+✞︎ .ᴄᴏᴍʀᴀᴅᴇ
+✞︎ .ɢᴀʏ
+✞︎ .ɢʟᴀss
+✞︎ .ᴊᴀɪʟ
+✞︎ .ᴘᴀssᴇᴅ
+✞︎ .ᴛʀɪɢɢᴇʀᴇᴅ
+╰──────────────────╯
+
+╭─❏  ᴀɴɪᴍᴇ  ❏─╮
+✞︎ .ɴᴇᴋᴏ
+✞︎ .ᴡᴀɪꜰᴜ
+✞︎ .ʟᴏʟɪ
+✞︎ .ɴᴏᴍ
+✞︎ .ᴘᴏᴋᴇ
+✞︎ .ᴄʀʏ
+✞︎ .ᴋɪss
+✞︎ .ᴘᴀᴛ
+✞︎ .ʜᴜɢ
+✞︎ .ᴡɪɴᴋ
+✞︎ .ꜰᴀᴄᴇᴘᴀʟᴍ
+╰──────────────────╯
+
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɴᴏᴡʙɪʀᴅ`;
+
+    try {
+        const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
+        
+        if (fs.existsSync(imagePath)) {
+            const imageBuffer = fs.readFileSync(imagePath);
+            
+            await sock.sendMessage(chatId, {
+                image: imageBuffer,
+                caption: helpMessage,
+                contextInfo: {
+                    forwardingScore: 1,
+                    isForwarded: true,
+                    forwardedNewsletterMessageInfo: {
+                        newsletterJid: '120363399707841760@newsletter',
+                        newsletterName: 'ʟᴀᴅʏ ʙᴇʟʟᴀ ᴠ3',
+                        serverMessageId: -1
+                    }
+                }
+            },{ quoted: message });
+        } else {
+            console.error('Bot image not found at:', imagePath);
+            await sock.sendMessage(chatId, { 
+                text: helpMessage,
+                contextInfo: {
+                    forwardingScore: 1,
+                    isForwarded: true,
+                    forwardedNewsletterMessageInfo: {
+                        newsletterJid: '120363399707841760@newsletter',
+                        newsletterName: 'ʟᴀᴅʏ ʙᴇʟʟᴀ ᴠ3',
+                        serverMessageId: -1
+                    } 
+                }
+            });
+        }
+    } catch (error) {
+        console.error('Error in help command:', error);
+        await sock.sendMessage(chatId, { text: helpMessage });
+    }
+}
+
+module.exports = helpCommand;

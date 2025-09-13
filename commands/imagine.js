@@ -21,7 +21,7 @@ async function imagineCommand(sock, chatId, message) {
 
         // Send processing message
         await sock.sendMessage(chatId, {
-            text: '𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀 Generating your image... Please wait.'
+            text: '🎨 Generating your image... Please wait.'
         }, {
             quoted: message
         });
@@ -30,11 +30,7 @@ async function imagineCommand(sock, chatId, message) {
         const enhancedPrompt = enhancePrompt(imagePrompt);
 
         // Make API request
-        const response = await axios.get(`https://api.shizo.top/ai/imagine/flux`, {
-            params: {
-                apikey: 'knightbot',
-                prompt: enhancedPrompt
-            },
+        const response = await axios.get(`https://shizoapi.onrender.com/api/ai/imagine?apikey=shizo&query=${encodeURIComponent(enhancedPrompt)}`, {
             responseType: 'arraybuffer'
         });
 
