@@ -57,6 +57,13 @@
 
 ---
  
+#### ✔️ Katabump Hosting
+---
+[![Deploy on Katabump](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.katabump.com/dashboard)
+
+
+---
+ 
 #### ✔️ Vɪᴅᴇᴏ ᴏɴ ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ
 ---
 [![Deploy on Heroku](https://img.shields.io/badge/-Watch-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu)
