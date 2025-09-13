@@ -42,7 +42,7 @@
 
 ---
 
-### ✔️ ᴅᴏᴡɴʟᴏᴀᴅ ʟᴀᴅʏʙᴇʟʟᴀ2 ᴢɪᴘ
+### ✔️ ᴅᴏᴡɴʟᴏᴀᴅ ʟᴀᴅʏʙᴇʟʟᴀ3 ᴢɪᴘ
 
 [![Deploy on Bot hosting net](https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/SNOWBIRD0074/Lady-Bella2/archive/refs/heads/main.zip)
 
