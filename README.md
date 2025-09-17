@@ -38,7 +38,7 @@
 
 ### 💙ᴘᴀɪʀ ʏᴏᴜʀ #💚ɢᴇᴛ ᴄʀᴇᴅs ғɪʟᴇ💜
 
-[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://sess-bellapair.zone.id)
+[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://kkkdjjdjjdjdjdjj.onrender.com/)
 
 ---
 
