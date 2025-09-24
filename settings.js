@@ -1,6 +1,6 @@
 const settings = {
   packname: 'dark-md',
-  author: '‎',
+  author: 'DarkBlaze‎',
   botName: "darkmd",
   botOwner: 'darkblaze', // Your name
   ownerNumber: '2349135926622', //Set your number here without + symbol, just add country code & number without any space
